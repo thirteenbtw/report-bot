@@ -1,0 +1,2 @@
+# Каждый будний день в 09:00. Пути поправьте под себя.
+0 9 * * 1-5 cd /opt/report-bot && /usr/bin/python3 -m report_bot >> report.log 2>&1
