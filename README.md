@@ -4,6 +4,8 @@
 
 **Стек:** Python 3.10+, cron, REST API (ЦБ РФ, Open-Meteo, GitHub, Telegram Bot API).
 
+https://github.com/user-attachments/assets/ba492ede-b17d-4b4a-9c9f-33e78bc66792
+
 ## Пример сводки
 
 ```
